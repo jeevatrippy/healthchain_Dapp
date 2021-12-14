@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/healthchain_Dapp/static/css/main.6df11d7d.chunk.css",
-    "main.js": "/healthchain_Dapp/static/js/main.0fe685d5.chunk.js",
-    "main.js.map": "/healthchain_Dapp/static/js/main.0fe685d5.chunk.js.map",
+    "main.js": "/healthchain_Dapp/static/js/main.77f84cc5.chunk.js",
+    "main.js.map": "/healthchain_Dapp/static/js/main.77f84cc5.chunk.js.map",
     "runtime-main.js": "/healthchain_Dapp/static/js/runtime-main.630fbde0.js",
     "runtime-main.js.map": "/healthchain_Dapp/static/js/runtime-main.630fbde0.js.map",
-    "static/js/2.07d9a516.chunk.js": "/healthchain_Dapp/static/js/2.07d9a516.chunk.js",
-    "static/js/2.07d9a516.chunk.js.map": "/healthchain_Dapp/static/js/2.07d9a516.chunk.js.map",
+    "static/js/2.e18c7f4c.chunk.js": "/healthchain_Dapp/static/js/2.e18c7f4c.chunk.js",
+    "static/js/2.e18c7f4c.chunk.js.map": "/healthchain_Dapp/static/js/2.e18c7f4c.chunk.js.map",
     "index.html": "/healthchain_Dapp/index.html",
     "static/css/main.6df11d7d.chunk.css.map": "/healthchain_Dapp/static/css/main.6df11d7d.chunk.css.map",
-    "static/js/2.07d9a516.chunk.js.LICENSE.txt": "/healthchain_Dapp/static/js/2.07d9a516.chunk.js.LICENSE.txt",
+    "static/js/2.e18c7f4c.chunk.js.LICENSE.txt": "/healthchain_Dapp/static/js/2.e18c7f4c.chunk.js.LICENSE.txt",
     "static/media/bitcoin.png": "/healthchain_Dapp/static/media/bitcoin.47422bea.png",
     "static/media/blob.png": "/healthchain_Dapp/static/media/blob.e3950678.png",
     "static/media/cercuri.png": "/healthchain_Dapp/static/media/cercuri.05cc0d04.png",
@@ -32,8 +32,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.630fbde0.js",
-    "static/js/2.07d9a516.chunk.js",
+    "static/js/2.e18c7f4c.chunk.js",
     "static/css/main.6df11d7d.chunk.css",
-    "static/js/main.0fe685d5.chunk.js"
+    "static/js/main.77f84cc5.chunk.js"
   ]
 }
