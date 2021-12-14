@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/healthchain_Dapp/static/css/main.6df11d7d.chunk.css",
+    "main.js": "/healthchain_Dapp/static/js/main.0fe685d5.chunk.js",
+    "main.js.map": "/healthchain_Dapp/static/js/main.0fe685d5.chunk.js.map",
+    "runtime-main.js": "/healthchain_Dapp/static/js/runtime-main.630fbde0.js",
+    "runtime-main.js.map": "/healthchain_Dapp/static/js/runtime-main.630fbde0.js.map",
+    "static/js/2.07d9a516.chunk.js": "/healthchain_Dapp/static/js/2.07d9a516.chunk.js",
+    "static/js/2.07d9a516.chunk.js.map": "/healthchain_Dapp/static/js/2.07d9a516.chunk.js.map",
+    "index.html": "/healthchain_Dapp/index.html",
+    "static/css/main.6df11d7d.chunk.css.map": "/healthchain_Dapp/static/css/main.6df11d7d.chunk.css.map",
+    "static/js/2.07d9a516.chunk.js.LICENSE.txt": "/healthchain_Dapp/static/js/2.07d9a516.chunk.js.LICENSE.txt",
+    "static/media/bitcoin.png": "/healthchain_Dapp/static/media/bitcoin.47422bea.png",
+    "static/media/blob.png": "/healthchain_Dapp/static/media/blob.e3950678.png",
+    "static/media/cercuri.png": "/healthchain_Dapp/static/media/cercuri.05cc0d04.png",
+    "static/media/chester-wade.jpg": "/healthchain_Dapp/static/media/chester-wade.e891184f.jpg",
+    "static/media/blk-design-system-react.scss?v=1.2.0": "/healthchain_Dapp/static/media/square5.16283001.png",
+    "static/media/denys.jpg": "/healthchain_Dapp/static/media/denys.1b33975a.jpg",
+    "static/media/etherum.png": "/healthchain_Dapp/static/media/etherum.628f765f.png",
+    "static/media/fabien-bazanegue.jpg": "/healthchain_Dapp/static/media/fabien-bazanegue.3c5ff5a0.jpg",
+    "static/media/mark-finn.jpg": "/healthchain_Dapp/static/media/mark-finn.40b78857.jpg",
+    "static/media/mike.jpg": "/healthchain_Dapp/static/media/mike.fe979cd1.jpg",
+    "static/media/nucleo-icons.css": "/healthchain_Dapp/static/media/nucleo.bd5cce8b.eot",
+    "static/media/path2.png": "/healthchain_Dapp/static/media/path2.35e76a63.png",
+    "static/media/path3.png": "/healthchain_Dapp/static/media/path3.3f66cc18.png",
+    "static/media/path4.png": "/healthchain_Dapp/static/media/path4.cb1d9fab.png",
+    "static/media/path5.png": "/healthchain_Dapp/static/media/path5.037b2fce.png",
+    "static/media/patrat.png": "/healthchain_Dapp/static/media/patrat.aeec33e4.png",
+    "static/media/ripp.png": "/healthchain_Dapp/static/media/ripp.c59f6023.png",
+    "static/media/square-purple-1.png": "/healthchain_Dapp/static/media/square-purple-1.ed3a5e38.png",
+    "static/media/waves.png": "/healthchain_Dapp/static/media/waves.ac46eaef.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.630fbde0.js",
+    "static/js/2.07d9a516.chunk.js",
+    "static/css/main.6df11d7d.chunk.css",
+    "static/js/main.0fe685d5.chunk.js"
+  ]
+}
